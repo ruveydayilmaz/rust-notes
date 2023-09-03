@@ -19,14 +19,14 @@ Print the concatenated_string variable to the console.
 Compile and run the program to ensure it works as expected.
 
 ### Checklist
-Write the concatenate_strings function signature.
+✅ Write the concatenate_strings function signature.
 
-Implement the concatenate_strings function.
+✅ Implement the concatenate_strings function.
 
-Initialize two String variables in the main function.
+✅ Initialize two String variables in the main function.
 
-Call the concatenate_strings function with string slices of the variables.
+✅ Call the concatenate_strings function with string slices of the variables.
 
-Print the result to the console.
+✅ Print the result to the console.
 
-Compile and run the program to test its functionality.
+✅ Compile and run the program to test its functionality.
